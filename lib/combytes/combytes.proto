@@ -1,0 +1,9 @@
+syntax = "proto2";
+package COMbytes;
+
+message Bytes {
+  repeated string T = 1;
+  repeated string R = 2;
+  repeated string S = 3; 
+}
+

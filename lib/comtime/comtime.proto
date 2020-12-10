@@ -1,0 +1,7 @@
+syntax = "proto2";
+package COMtime;
+
+message Time {
+  repeated string T = 1; 
+}
+
